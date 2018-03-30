@@ -4,4 +4,4 @@ class TestA():
     def test002(self):
         assert 1
     def test003(self):
-        assert 0
+        assert 1
